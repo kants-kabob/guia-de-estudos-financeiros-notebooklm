@@ -26,7 +26,8 @@ Já a relação com a **Contabilidade** é marcada por uma sobreposição de ati
 Para o entendimento introdutório, pode-se dizer que a economia estuda o ambiente de mercado, a contabilidade registra os fatos ocorridos e as finanças utilizam esse conhecimento para **gerir o fluxo de caixa e criar valor** [9, 10, 12]. Ter "inteligência financeira" é saber ler as histórias que os números contam e utilizar a criatividade para solucionar problemas e aproveitar oportunidades que o mundo econômico oferece [14-16].
 <observa-se que foram coletados 16 fragmentos das fontes> 
 
-Glossário: - tradeoff: situação pela qual o acionista/ gestor terá de fazer um "sacrifício", uma decisão difícil em prol de um bem maior (ou não).
+Glossário: 
+- tradeoff: situação pela qual o acionista/ gestor terá de fazer um "sacrifício", uma decisão difícil em prol de um bem maior (ou não).
 - alfabetização financeira: educada a pessoa que sabe inferir, entender, decifrar um problema financeiro, interpretar situações demostrações financeiras para identificar pontos fracos e fortes de um negócio.
 - fluxo de caixa: artifício financeiro usado para identificar as saídas e entradas do caixa de uma pessoa (jurídica ou física), promove uma melhor organização do capital de tal.
 - problema de agency: quando um gestor põe seus interesses pessoais acima dos da empresa/ organização.
