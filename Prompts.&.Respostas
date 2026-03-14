@@ -114,8 +114,7 @@ Em suma, enquanto a contabilidade foca no registro do que se tem e do que se dev
 
 4) Foi utilizada a ferramenta "Mapa Mental" para fazer uma espécie de resumo do conteúdo do chat, todavia, só foi obtido um resumo do conteúdo do livro Pai Rico, Pai Pobre, excluindo as outras 4 fontes. (O pdf está disposto na aba "NotebookLM Mind (...)" 
 > tentativas de fazer outros mapas mentais com os outros livros:
-
-prompt: faça um mapa mental do conteúdo da Fonte  "Principios.pdf"
+prompt: faça um mapa mental do conteúdo da Fonte  "Principios.pdf" 
 >> Resposta: Com base na fonte **"Princípios de Administração Financeira"** (Lawrence J. Gitman), que consta nos materiais fornecidos, aqui está um mapa mental estruturado que sintetiza os principais conceitos e áreas abordadas na obra:
 
 ### **Mapa Mental: Princípios de Administração Financeira**
@@ -149,6 +148,153 @@ prompt: faça um mapa mental do conteúdo da Fonte  "Principios.pdf"
 *   **Alavancagem:** Uso de custos fixos para ampliar os retornos (operacional, financeira e total).
 *   **Estrutura de Capital:** Busca pelo mix ideal entre capital de terceiros e capital próprio que minimize o custo de capital e maximize o valor da firma.
 *   **Política de Dividendos:** Decisão estratégica entre distribuir lucros aos acionistas ou retê-los para reinvestimento.
+-----------------------------------------------------------------------------------------------
+prompt: faça um mapa mental do conteúdo da Fonte  "GestaoFinanceira.pdf"
+>> Resposta: Com base na fonte **"Gestão Financeira"** (referente ao material "Gestao_Financeira_UA01_UA16_v2017"), preparei um mapa mental estruturado que abrange os fundamentos, análises e estratégias de curto e longo prazo detalhadas no documento:
 
+### **Mapa Mental: Gestão Financeira**
 
+#### **1. Fundamentos e Objetivos**
+*   **Objetivo Primordial:** Maximizar a riqueza dos proprietários (valor de mercado do capital) sem comprometer a liquidez.
+*   **Responsabilidade do Gestor:** Abrange o passado, presente e futuro da organização.
+*   **Decisões Centrais:**
+    *   **Investimento:** Aplicação de recursos em ativos circulantes e não circulantes.
+    *   **Financiamento:** Captação de recursos (dívida ou capital próprio) para projetos.
+*   **Ética e Social:** Considerações morais, ambientais e sociais devem integrar as decisões.
 
+#### **2. Técnicas de Análise das Demonstrações**
+*   **Análise Horizontal:** Avalia a evolução e tendências de cada conta ao longo do tempo (série temporal).
+*   **Análise Vertical:** Estuda a estrutura e a importância percentual de cada conta em relação ao total do grupo.
+*   **Índices de Situação Financeira:**
+    *   **Liquidez:** Capacidade de cumprir obrigações (Imediata, Corrente, Seca e Geral).
+    *   **Endividamento:** Mostra a dependência de capitais de terceiros e a imobilização do patrimônio.
+*   **Índices de Situação Econômica:**
+    *   **Atividade/Rotatividade:** Velocidade de renovação de elementos como estoques e contas a receber.
+    *   **Rentabilidade:** Margens de lucro e retornos sobre o investimento (ROA) e sobre o capital próprio (ROE).
+*   **Sistema DuPont:** Analisa os itens que contribuem para a taxa de retorno em uma tabela analítica.
+
+#### **3. Planejamento e Estrutura de Custos**
+*   **Planejamento Financeiro:**
+    *   **Estratégico (Longo Prazo):** Focado em metas e estratégias amplas.
+    *   **Operacional (Curto Prazo):** Orçamentos de caixa e demonstrações projetadas para um ano.
+*   **Ponto de Equilíbrio (Breakeven):** Nível onde a Receita Total se iguala ao Custo Total (Lucro = 0).
+*   **Alavancagem Operacional:** Uso de custos operacionais fixos para multiplicar os retornos.
+
+#### **4. Administração do Capital de Giro**
+*   **Ciclos Operacional e Financeiro:** Tempo desde a compra da matéria-prima até o recebimento efetivo das vendas.
+*   **Gestão de Disponibilidades:** Técnicas para administrar caixa e garantir pagamentos imediatos.
+*   **Administração de Crédito:** Processos de seleção, concessão e cobrança de duplicatas a receber.
+*   **Administração de Estoques:** Equilíbrio para minimizar custos de manutenção sem perder vendas.
+
+#### **5. Ativos Permanentes e Investimentos**
+*   **Ativos Imobilizados:** Métodos de avaliação, depreciação, amortização e exaustão.
+*   **Investimento de Capital:** Avaliação de projetos considerando riscos e incertezas.
+*   **Estrutura de Capital:** Mix ideal entre recursos próprios e de terceiros que maximiza a riqueza.
+
+Gostaria que eu gerasse um **quiz de revisão** ou **flashcards** baseados nestes tópicos para testar seus conhecimentos sobre o conteúdo desta fonte específica?
+-----------------------------------------------------------------------------------------------
+prompt: faça um mapa mental do conteúdo da Fonte  "matematicafinanceira.pdf"
+>> Resposta: Com base na obra **"Matemática Financeira e suas Aplicações"**, de Alexandre Assaf Neto, aqui está um mapa mental estruturado que sintetiza os principais tópicos e ferramentas técnicas abordados no material:
+
+### **Mapa Mental: Matemática Financeira (Assaf Neto)**
+
+#### **1. Conceitos Fundamentais e Juros Simples**
+*   **Definição de Juro:** Remuneração pelo adiamento do consumo e pelo risco.
+*   **Diagrama de Fluxo de Caixa:** Representação visual de entradas (setas para cima) e saídas (setas para baixo) ao longo do tempo.
+*   **Regime Simples (Linear):** Juros incidem apenas sobre o capital inicial (comportamento de PA).
+*   **Taxas Proporcionais:** Divisão simples da taxa pelo número de períodos (ex: 12% a.a. = 1% a.m.).
+*   **Equivalência Financeira:** Capitais em datas diferentes que possuem o mesmo valor em uma data focal comum.
+
+#### **2. Juros Compostos (Capitalização Exponencial)**
+*   **Mecânica:** Juros sobre juros; incorporação periódica do rendimento ao principal (comportamento de PG).
+*   **Fator de Capitalização (FCC):** $(1 + i)^n$ usado para levar um valor ao futuro.
+*   **Fator de Atualização (FAC):** $1 / (1 + i)^n$ usado para trazer um valor ao presente.
+*   **Taxas Equivalentes:** Taxas que, para períodos diferentes, produzem o mesmo montante final (média geométrica).
+*   **Convenções para Períodos Não Inteiros:** Linear (misto de simples e compostos) ou Exponencial (totalmente composta).
+
+#### **3. Taxas de Juros em Contexto**
+*   **Nominal vs. Efetiva:** A taxa nominal não reflete o custo real se a capitalização for mais frequente que o período da taxa.
+*   **Taxa Real vs. Inflação:** Uso do **Efeito Fisher** para expurgar a inflação da taxa nominal e encontrar o ganho real.
+*   **Taxa Over:** Juros calculados sobre dias úteis (base 252 dias/ano), comum no mercado interbancário.
+*   **Taxas Pré e Pós-fixadas:** Decisão baseada na expectativa de inflação futura.
+
+#### **4. Operações de Desconto**
+*   **Desconto "Por Dentro" (Racional):** Baseado no valor presente (tecnicamente mais correto).
+*   **Desconto "Por Fora" (Comercial/Bancário):** Incide sobre o valor nominal (valor de face), resultando em taxa efetiva maior.
+*   **Taxa Implícita:** O custo real do desconto bancário é sempre superior à taxa declarada.
+
+#### **5. Fluxos de Caixa e Coeficientes**
+*   **Modelo-Padrão:** Séries postecipadas (fim do período), constantes, periódicas e finitas.
+*   **Séries Antecipadas:** Primeiro pagamento ocorre no ato (entrada).
+*   **Diferimento (Carência):** Período de tempo entre a contratação e o primeiro pagamento.
+*   **Perpetuidades:** Séries com duração indeterminada (valor presente = PMT / i).
+
+#### **6. Sistemas de Amortização**
+*   **SAC (Sistema de Amortização Constante):** Parcelas de amortização iguais; prestações e juros decrescentes.
+*   **SAF/SPC (Sistema Francês/Price):** Prestações constantes; juros decrescentes e amortizações crescentes.
+*   **SAM (Sistema de Amortização Misto):** Média aritmética entre SAC e SAF.
+*   **SAA (Sistema Americano):** Amortização única ao final do prazo; juros podem ser pagos periodicamente.
+
+#### **7. Análise de Investimentos**
+*   **Taxa Interna de Retorno (IRR/TIR):** Taxa que anula o VPL; mede a rentabilidade do projeto.
+*   **Valor Presente Líquido (NPV/VPL):** Diferença entre o valor presente das entradas e das saídas de caixa.
+*   **Índice de Lucratividade (IL):** Relação entre o valor presente dos benefícios e o investimento inicial.
+
+#### **8. Títulos de Renda Fixa e Ações**
+*   **Títulos Públicos:** Avaliação de **LTN** (prefixadas), **LFT** (Selic) e **NTN** (IPCA/Dólar).
+*   **Marcação a Mercado (MaM):** Ajuste do valor do título ao preço de negociação atual.
+*   **Avaliação de Ações:** Modelos de fluxos de dividendos descontados e **Modelo de Gordon** (crescimento constante).
+-----------------------------------------------------------------------------------------------
+prompt: faça um mapa mental do conteúdo da Fonte  "sapiens.pdf"
+>> Resposta: Com base nos excertos da fonte **"sapiens.pdf"** (Yuval Noah Harari), aqui está um mapa mental estruturado que sintetiza as quatro grandes partes da obra e seus conceitos fundamentais:
+
+### **Mapa Mental: Sapiens – Uma Breve História da Humanidade**
+
+#### **1. A Revolução Cognitiva (Há 70 mil anos)**
+*   **Animal Insignificante:** No início, o *Homo sapiens* era um animal de baixo impacto no ecossistema, não mais importante que gorilas ou águas-vivas.
+*   **Linguagem Única:** Diferente de outros animais, o Sapiens desenvolveu uma linguagem flexível capaz de transmitir informações sobre coisas que não existem (**ficção**).
+*   **Mitos Compartilhados:** A capacidade de criar ficções (deuses, nações, direitos humanos) permitiu a cooperação flexível entre milhares de estranhos.
+*   **Realidades Imaginadas:** Instituições como a **Peugeot S.A.** são "ficções jurídicas" que só existem na imaginação coletiva, mas exercem poder real no mundo.
+*   **Impacto Ecológico:** A expansão humana causou a primeira grande onda de extinção em massa, dizimando a megafauna na Austrália e nas Américas.
+
+#### **2. A Revolução Agrícola (Há 12 mil anos)**
+*   **A Maior Fraude da História:** Harari argumenta que o trigo, o arroz e a batata domesticaram o homem, e não o contrário, levando a vidas mais duras para o indivíduo comum.
+*   **Armadilha de Luxo:** A busca por uma vida mais fácil gerou excedentes que permitiram explosões populacionais e criaram elites, mas aprisionaram o camponês em rotinas exaustivas.
+*   **Ordens Imaginadas:** Para gerir sociedades grandes, criaram-se códigos como o de **Hamurábi** e a **Declaração de Independência dos EUA**, que sustentam hierarquias sociais através de mitos.
+*   **Escrita e Burocracia:** A escrita surgiu na Suméria para processar dados numéricos e tributários que o cérebro humano não conseguia memorizar.
+*   **Hierarquias Injustas:** Castas, raças e gêneros são construções sociais criadas para sustentar a ordem e a exploração, sem base biológica real.
+
+#### **3. A Unificação da Humanidade**
+*   **Ordens Universais:** Três forças unificaram o mundo: a ordem **monetária** (dinheiro), a ordem **imperial** (impérios) e as **religiões universais**.
+*   **O Dinheiro:** O sistema de confiança mútua mais eficiente da história, capaz de converter matéria em pensamento e unir inimigos através do comércio.
+*   **Impérios:** Caracterizados pela diversidade cultural e fronteiras flexíveis; foram os grandes fundidores de culturas pequenas em megaculturas.
+*   **Religião:** Define-se como um sistema de normas humanas baseado na crença em uma ordem sobre-humana, evoluindo do animismo para o teísmo e as ideologias modernas.
+*   **Humanismo:** Religiões modernas que cultuam a humanidade, dividindo-se em liberal (liberdade), socialista (igualdade) e evolucionário (super-homem).
+
+#### **4. A Revolução Científica (Há 500 anos)**
+*   ***Ignoramus***: A ciência moderna baseia-se na admissão da ignorância ("não sabemos"), o que impulsionou a busca por novos conhecimentos e poderes.
+*   **Aliança Ciência-Império-Capital:** O progresso científico foi financiado por impérios em busca de novas terras e pelo capitalismo em busca de crescimento e lucro.
+*   **Ideologia do Crescimento:** O capitalismo baseia-se na confiança no futuro e no crédito, exigindo crescimento econômico perpétuo sustentado pela inovação científica.
+*   **Revolução Industrial:** A descoberta de como converter energia transformou a agricultura e a vida cotidiana, mecanizando animais e destruindo o habitat natural.
+*   **O Fim do Sapiens:** Através da bioengenharia, ciborgues e vida inorgânica, a humanidade está prestes a substituir a seleção natural pelo **design inteligente**, podendo tornar-se algo totalmente diferente de um humano.
+
+#### **Epílogo: O Animal que se tornou um Deus**
+*   O Sapiens agora possui capacidades divinas de criação e destruição, mas permanece irresponsável, descontente e sem objetivos claros para o uso de seu imenso poder.
+-----------------------------------------------------------------------------------------------
+considerações finais: A IA ainda está limitada a não conseguir gerar dados de saídas como foi requisitado, ainda sim, com uma boa engenharia de prompt, também com o uso de uma IA externa a essa, ou a realização de um trabalho gráfico mais manual, podemos gerar conteúdos como mapas mentais, apresentações, entre outros, especificamente neste notebook, estava limitado ao conteúdo do livro Pai Rico, Pai Pobre.
+
+--> considerações finais da própia IA
+prompt: este notebook foi utilizado como ferramenta para um pequeno projeto de programação com um repositório no Github, faça considerações finais deste projeto, fazendo um breve resumo do conteúdo apresentado, agrupe as informações mais relevantes e as relacione ao seu uso profissional no mercado de trabalho digital.
+>> Resposta: Este projeto de programação, documentado em um repositório no Github, integrou de forma multidisciplinar a visão histórica da evolução humana com o rigor técnico da gestão financeira e a mentalidade de investimentos. O conteúdo apresentado percorreu desde as **"realidades imaginadas"** que permitem a cooperação em massa, como as empresas S/A e o próprio dinheiro, até as ferramentas matemáticas precisas para calcular a rentabilidade de um ativo ao longo do tempo. Exploramos como a **alfabetização financeira** é o alicerce para transformar o trabalho técnico em criação de valor, utilizando demonstrações contábeis e fluxos de caixa para distinguir ativos que geram renda de passivos que geram despesas.
+
+As informações mais relevantes agrupadas neste notebook incluem:
+*   **Fundamentos de Governança:** A estrutura de uma S/A separa a propriedade da gestão para maximizar a riqueza dos acionistas através de uma operação profissional.
+*   **Ferramentas de Decisão:** O uso de métodos como o **Valor Presente Líquido (VPL)** e a **Taxa Interna de Retorno (TIR)** para selecionar projetos que efetivamente criam valor.
+*   **Gestão de Risco e Retorno:** O entendimento de que investidores exigem retornos maiores para compensar incertezas, sendo o **Modelo CAPM** uma diretriz central para essa avaliação.
+*   **Administração de Capital de Giro:** A importância vital de gerir a liquidez de curto prazo (caixa, estoques e duplicatas) para evitar a insolvência.
+
+No contexto do **mercado de trabalho digital**, este conhecimento é um diferencial estratégico para programadores e profissionais de tecnologia. Robert Kiyosaki ressalta que muitos profissionais instruídos, incluindo programadores, enfrentam dificuldades financeiras por serem "analfabetos" quanto ao fluxo de caixa, focando apenas em seus salários em vez de construir uma **coluna de ativos**. No mercado digital, onde novos modelos de negócios surgem rapidamente, a capacidade de realizar uma **análise marginal custo-benefício** permite que o profissional avalie se o desenvolvimento de uma nova funcionalidade ou software trará benefícios que superem os custos adicionais incorridos.
+
+Além disso, o uso de ferramentas de documentação e análise (como notebooks e Github) facilita a **gestão de sistemas e informações**, permitindo que o gestor financeiro projete cenários e acompanhe o desempenho em tempo real. A mentalidade recomendada pelas fontes para o sucesso profissional é focar em **"aprender mais do que em ganhar"** no curto prazo; essa busca por inteligência financeira e domínio de sistemas de gestão resulta, no longo prazo, em maiores dividendos e opções de carreira.
+
+Em suma, este projeto reforça que a inteligência financeira não é "ciência espacial", mas a aplicação de **matemática simples e bom-senso** para fazer o dinheiro trabalhar para você. Para o profissional digital, dominar esses conceitos significa deixar de ser apenas um executor técnico para tornar-se um criador de valor capaz de entender e influenciar o ecossistema econômico em que está inserido.
