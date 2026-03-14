@@ -1,5 +1,5 @@
 # guia-de-estudos-financeiros-notebooklm
-"mini" projeto criado durante o bootcamp "Bradesco - GenAI & Dados" da plataforma DIO em parceria com a instituição bancária Bradesco
+"mini" projeto criado durante o bootcamp "Bradesco - GenAI & Dados" da plataforma DIO em parceria com a instituição bancária Bradesco,
 este projeto foi criado com a intenção de criar uma mente artifical que auxiliasse quem dela fizesse uso para aprender conceitos e conteúdos de administração financeira básica, para tanto, foi usado como fontes para o Notebooklm trabalhar o respectivo assunto livros relacionados, tais como: 
 
 Pai Rico e Pai Pobre (Robert Kiyosaki e Sharon L. Lechter) 
